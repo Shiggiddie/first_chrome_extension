@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "FOD",
+  "description": "This is a very simple POC for chrome extension use",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "fur.png",
+    "default_popup": "popup.html"
+  }
+}
